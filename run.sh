@@ -1,0 +1,1 @@
+g++ -o runner runner.cpp solverSource/solver1.cpp -I solver

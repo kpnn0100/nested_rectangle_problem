@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(homework)
+include_directories(solver)
+add_definitions()
+add_executable(nested_rec runner.cpp solverSource/solver1.cpp)
